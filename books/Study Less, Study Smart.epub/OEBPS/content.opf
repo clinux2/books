@@ -1,0 +1,34 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Study Less, Study Smart</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Lobdell, Marty">Marty Lobdell</dc:creator>
+    <dc:identifier id="bookid">urn:uuid:273fd756-62f2-4858-8d67-99e08f24bba9</dc:identifier>
+    <dc:contributor opf:file-as="CompanyName" opf:role="own">Epubor</dc:contributor>
+    <dc:contributor opf:file-as="PersonalName" opf:role="own">Ultimate</dc:contributor>
+    <dc:contributor opf:file-as="eCore" opf:role="bkp">calibre (4.7.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:contributor opf:file-as="SiteURL" opf:role="own">http://www.epubor.com</dc:contributor>
+    <dc:date>2015-03-15T04:00:00+00:00</dc:date>
+    <dc:publisher>Unknown</dc:publisher>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">802b21a8-3a75-4480-81f8-015aa02bb720</dc:identifier>
+    <meta name="cover" content="cover-image"/>
+    <meta name="calibre:title_sort" content="Study Less, Study Smart"/>
+    <meta name="calibre:author_link_map" content="{&quot;Marty Lobdell&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_metadata:#on_cookyes" content="{&quot;datatype&quot;: &quot;bool&quot;, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#on_cookyes&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;label&quot;: &quot;on_cookyes&quot;, &quot;name&quot;: &quot;Cookyes&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;colnum&quot;: 1, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}, &quot;is_multiple&quot;: null, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="part0000.xhtml" id="id_1" media-type="application/xhtml+xml"/>
+    <item href="part0001.xhtml" id="id_2" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="stylesheet.css" id="id_4" media-type="text/css"/>
+    <item href="images/04b682fa-506c-43d8-a997-3fb1f33ecaad8113830477826792174.jpg" id="cover-image" media-type="image/jpeg" properties="cover-image"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id_1"/>
+    <itemref idref="id_2"/>
+  </spine>
+  <guide>
+    <reference type="text" title="" href="part0001.xhtml#srl_created_by_stampler"/>
+  </guide>
+</package>

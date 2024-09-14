@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta name="dtb:uid" content="bookid"/>
+      <meta name="dtb:depth" content="0"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>UnKnown</text>
+   </docTitle>
+   <navMap>
+     <navPoint id="id1" playOrder="1">
+       <navLabel>
+         <text>Introduction</text>
+       </navLabel>
+       <content src="part0001.xhtml#toc0_Introduction"/>
+     </navPoint>
+     <navPoint id="id2" playOrder="2">
+       <navLabel>
+         <text>How long can you study effectively?</text>
+       </navLabel>
+       <content src="part0001.xhtml#toc1_How_long_can_you_study_effectively_"/>
+     </navPoint>
+     <navPoint id="id3" playOrder="3">
+       <navLabel>
+         <text>Reinforce your study behavior</text>
+       </navLabel>
+       <content src="part0001.xhtml#toc2_Reinforce_your_study_behavior"/>
+     </navPoint>
+     <navPoint id="id4" playOrder="4">
+       <navLabel>
+         <text>Use or create a study/ library</text>
+       </navLabel>
+       <content src="part0001.xhtml#toc3_Use_or_create_a_study__library"/>
+     </navPoint>
+     <navPoint id="id5" playOrder="5">
+       <navLabel>
+         <text>Mindfulness</text>
+       </navLabel>
+       <content src="part0001.xhtml#toc4_Mindfulness"/>
+     </navPoint>
+     <navPoint id="id6" playOrder="6">
+       <navLabel>
+         <text>Discover the meaning</text>
+       </navLabel>
+       <content src="part0001.xhtml#toc5_Discover_the_meaning"/>
+     </navPoint>
+     <navPoint id="id7" playOrder="7">
+       <navLabel>
+         <text>Deeper processing</text>
+       </navLabel>
+       <content src="part0001.xhtml#toc6_Deeper_processing"/>
+     </navPoint>
+     <navPoint id="id8" playOrder="8">
+       <navLabel>
+         <text>Mnemonics</text>
+       </navLabel>
+       <content src="part0001.xhtml#toc7_Mnemonics"/>
+     </navPoint>
+     <navPoint id="id9" playOrder="9">
+       <navLabel>
+         <text>SQ4R</text>
+       </navLabel>
+       <content src="part0001.xhtml#toc8_SQ4R"/>
+     </navPoint>
+     <navPoint id="id10" playOrder="10">
+       <navLabel>
+         <text>Note Taking</text>
+       </navLabel>
+       <content src="part0001.xhtml#toc9_Note_Taking"/>
+     </navPoint>
+     <navPoint id="id11" playOrder="11">
+       <navLabel>
+         <text>Underlining/ highlighting may hurt your efforts</text>
+       </navLabel>
+       <content src="part0001.xhtml#toc10_Underlining__highlighting_may_hurt_your_efforts"/>
+     </navPoint>
+     <navPoint id="id12" playOrder="12">
+       <navLabel>
+         <text>Regular attendance</text>
+       </navLabel>
+       <content src="part0001.xhtml#toc11_Regular_attendance"/>
+     </navPoint>
+     <navPoint id="id13" playOrder="13">
+       <navLabel>
+         <text>Study groups</text>
+       </navLabel>
+       <content src="part0001.xhtml#toc12_Study_groups"/>
+     </navPoint>
+     <navPoint id="id14" playOrder="14">
+       <navLabel>
+         <text>Get enough sleep</text>
+       </navLabel>
+       <content src="part0001.xhtml#toc13_Get_enough_sleep"/>
+     </navPoint>
+     <navPoint id="id15" playOrder="15">
+       <navLabel>
+         <text>Conclusion</text>
+       </navLabel>
+       <content src="part0001.xhtml#toc14_Conclusion"/>
+     </navPoint>
+   </navMap>
+</ncx>
